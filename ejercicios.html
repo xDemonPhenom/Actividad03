@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style/ejercicios.css" />
+    <script type="text/javascript" src="js/ejercicios.js"></script>
+    <title>Tarea: Áreas y Perimetros</title>
+  </head>
+  <body>
+    <div id="top">
+      <div id="main">
+        <a href="index.html">INICIO</a>
+        <a href="ejercicios.html">EJERCICIOS DE JS</a>
+        <a href="quiz.html">QUIZ DE JS</a>
+      </div>
+      <div id="h1">JAVASCRIPT</div>
+      <img id="fondo" src="https://www.workato.com/product-hub/wp-content/uploads/2020/12/workato-blog-JavaScript-20201208-bl-01.jpg" >
+    </div>
+    <h2>Escoge la figura geometrica deseada:</h2>
+    <div>
+      <select id="Figure" onchange="SelectFigure()" name="Figure" size="1">
+        <option value="">Seleccione una opción</option>
+        <option value="Square">Cuadrado</option>
+        <option value="Rectangle">Rectangulo</option>
+        <option value="Triangle">Triangulo (Equilátero)</option>
+        <option value="Diamond">Rombo</option>
+        <option value="Rhomboid">Romboide</option>
+        <option value="Trapeze">Trapecio</option>
+        <option value="Circle">Circulo</option>
+        <option value="Polygon">Poligono</option>
+      </select>
+    </div>
+    <div id="Content">
+      <div id="Result">
+        <h3><span id="Title"></span></h3>
+      </div>
+      <div id="Buttons">
+        <div id="Area">
+          <div id="AreaBtn">
+            <button id="btnArea" value="Area" onclick="ShowArea()">Área</button>
+          </div>
+          <div id="ImgResult">
+            <img id="ResultImg" src="Images/Default.png" alt="img" >
+          </div>
+        </div>
+        <div id="Perimeter">
+          <div id="PerimeterBtn">
+            <button id="btnPerimeter" value="Perimetro" onclick="ShowPerimeter()">Perimetro</button>
+          </div>
+          <div id="divResult">
+            <span id="ResultText"></span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div id="footerdiv">
+      <div id="left">
+        <h6>Creador: Guillermo Antonio Campos Vásquez</h6>
+        <h6>Correo: 77541037@certus.edu.pe</h6>
+      </div>
+      <div id="right">
+        <a
+          class="button"
+          href="https://www.facebook.com/profile.php?id=100009401898350"
+          target="_blank"
+        >
+          <img id="fb" src="redes/facebook.png" alt="facebook" />
+        </a>
+        <a
+          class="button"
+          href="https://www.instagram.com/yukiix02/"
+          target="_blank"
+        >
+          <img id="ig" src="redes/instagram.png" alt="instagram" />
+        </a>
+        <a
+          class="button"
+          href="https://www.linkedin.com/in/guillermo-campos/"
+          target="_blank"
+        >
+          <img id="lkn" src="redes/linkedin.png" alt="linkedin" />
+        </a>
+      </div>
+    </div>
+</html>

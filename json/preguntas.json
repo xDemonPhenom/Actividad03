@@ -1,0 +1,184 @@
+{
+    "Preguntas": [
+        {
+            "Pregunta": "¿Quién abolió la esclavitud en el Perú?",
+            "Alternativas": [
+                {
+                    "A": "Ramon Castilla",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "Pedro Castillo",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "Superman",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "A"
+        },
+        {
+            "Pregunta": "¿Cuál es la capital de Australia?",
+            "Alternativas": [
+                {
+                    "A": "Oslo",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "Sidney",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "Tangamandapio",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "B"
+        },
+        {
+            "Pregunta": "¿Cuál es el pais más pequeño del mundo?",
+            "Alternativas": [
+                {
+                    "A": "Rusia",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "El Vaticano",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "Ciudad Gótica",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "B"
+        },
+        {
+            "Pregunta": "¿Como se llama el actual presidente del Perú?",
+            "Alternativas": [
+                {
+                    "A": "Batman",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "San Martín",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "Pedro Castillo",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "C"
+        },
+        {
+            "Pregunta": "¿En qué pais se celebrará el mundial 2022?",
+            "Alternativas": [
+                {
+                    "A": "Qatar",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "Brasil",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "México",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "A"
+        },
+        {
+            "Pregunta": "¿Cuántas horas tiene el día?",
+            "Alternativas": [
+                {
+                    "A": "25",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "24",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "20",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "B"
+        },
+        {
+            "Pregunta": "¿Cuál es el continente más pequeño?",
+            "Alternativas": [
+                {
+                    "A": "Europa",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "Asia",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "Oceania",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "C"
+        },
+        {
+            "Pregunta": "¿Cuántas estaciones hay en el transcurso de un año?",
+            "Alternativas": [
+                {
+                    "A": "8",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "5",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "4",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "C"
+        },
+        {
+            "Pregunta": "¿Cuántos días tiene el mes de Febrero?",
+            "Alternativas": [
+                {
+                    "A": "29",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "28",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "30",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "B"
+        },
+        {
+            "Pregunta": "¿De que color es el cielo?",
+            "Alternativas": [
+                {
+                    "A": "Celeste",
+                    "Respuesta": "A"
+                },
+                {
+                    "B": "Azul",
+                    "Respuesta": "B"
+                },
+                {
+                    "C": "Gris",
+                    "Respuesta": "C"
+                }
+            ],
+            "Resultado": "A"
+        }
+    ]
+}
